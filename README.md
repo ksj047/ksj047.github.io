@@ -11,14 +11,26 @@ About me
 <body>
     <header>
         <div class="container">
-            <h1>Your Name</h1>
+            <h1>Samuel Joshua</h1>
             <p>Resume Overview</p>
         </div>
     </header>
     <section id="about">
         <div class="container">
             <h2>About Me</h2>
-            <p>Add a brief introduction about yourself here.</p>
+            <p></>Enthusiastic and aspiring Data Science and ML enthusiast currently pursuing a Bachelor's in Engineering with a specialization in Artificial Intelligence and Machine Learning (AIML) from Visvesvarya Technological University. 
+
+</>Eager to contribute innovative solutions at the intersection of technology and data-driven insights.
+
+</>My academic journey has been complemented by a series of certifications in programming languages and related disciplines, solidifying my foundation in software development. 
+
+</>These certifications, coupled with hands-on projects, have honed my abilities in Machine Learning, Artificial Intelligence and algorithms based on them.
+
+</>As a proactive learner under VTU's curriculum, I continuously seek to broaden my understanding of emerging trends in AI/ML. I'm passionate about leveraging data to create impactful solutions that address real-world challenges.
+
+</>Seeking opportunities to collaborate on cutting-edge projects, where I can apply my theoretical knowledge and practical skills to drive innovation. 
+
+</>Open to networking and exploring avenues for growth in AI/ML domains and beyond.</p>
         </div>
     </section>
   <section id="experience">
