@@ -59,8 +59,8 @@ About me
     </section>
 <footer>
         <div class="container">
-            <p>Contact: your@email.com</p>
-            <p>GitHub: <a href="https://github.com/yourusername">yourusername</a></p>
+            <p>Contact: samuel.21ai243@iceas.ac.in </p>
+            <p>GitHub: <a href="https://github.com/ksj047">yourusername</a></p>
         </div>
     </footer>
   <script src="script.js"></script>
