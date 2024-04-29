@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Samuel Joshua</h1>
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
