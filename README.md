@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Resume</title>
+    <title>Samuel Joshua - About Me</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -12,9 +12,9 @@
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
-                <li><a href="#experience">Experience</a></li>
-                <li><a href="#education">Education</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#experience">Student</a></li>
+                <li><a href="#education">Pursuing Engineering in AI and ML</a></li>
+                <li><a href="#contact">samuel.21ai243@iceas.ac.in</a></li>
             </ul>
         </nav>
     </header>
@@ -40,21 +40,21 @@
             <ul>
                 <li>
                     <h3>Degree</h3>
-                    <p>School Name - Location</p>
-                    <p>Date</p>
+                    <p>Impact College Of Engineering And Applied Sciences</p>
+                    <p>Date: 2021-2025</p>
                 </li>
                 <!-- Add more education items as needed -->
             </ul>
         </section>
         <section id="contact">
             <h2>Contact Me</h2>
-            <p>Email: your@email.com</p>
-            <p>Phone: (123) 456-7890</p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/">Your LinkedIn Profile</a></p>
+            <p>Email:samuel.21ai243@iceas.ac.in/p>
+            <p>Phone: 98 801 44 285</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/samueljoshua47/">Your LinkedIn Profile</a></p>
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Your Name</p>
+        <p>&copy; 2024 Samuel</p>
     </footer>
 </body>
 </html>
