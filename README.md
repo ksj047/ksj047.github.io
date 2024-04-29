@@ -11,9 +11,9 @@
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
-                <li><a href="#experience">Student</a></li>
-                <li><a href="#education">Pursuing Engineering in AI and ML</a></li>
-                <li><a href="#contact">samuel.21ai243@iceas.ac.in</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
     </header>
