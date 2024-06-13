@@ -13,14 +13,12 @@
             <p>Resume Overview</p>
         </div>
     </header>
-
     <section id="about">
         <div class="container">
             <h2>About Me</h2>
             <p>Third-year undergraduate student in Artificial Intelligence and Machine Learning Engineering at Visvesvaraya Technological University (VTU). Passionate about building intelligent systems and exploring the intersection of technology and human experience.</p>
         </div>
     </section>
-
     <section id="experience">
         <div class="container">
             <h2>Experience</h2>
@@ -46,7 +44,6 @@
             </div>
         </div>
     </section>
-
     <section id="education">
         <div class="container">
             <h2>Education</h2>
@@ -64,7 +61,6 @@
             </div>
         </div>
     </section>
-
     <footer>
         <div class="container">
             <p>Contact: samuel.21ai243@iceas.ac.in</p>
@@ -72,7 +68,6 @@
             <p>LinkedIn: <a href="https://www.linkedin.com/in/samueljoshua47/">LinkedIn Profile</a></p>
         </div>
     </footer>
-
     <script src="script.js"></script>
 </body>
 </html>
