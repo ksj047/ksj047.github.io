@@ -8,7 +8,7 @@ body {
     background-size: cover; /* Scale the image to cover the entire background */
     background-position: center; /* Position the image at the center */
     background-blend-mode: multiply; /* Blend the image with the background color */
-    background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background color */
+    background-color: rgba(0, 0, 0, 0); /* Add a semi-transparent background color */
 }
 
 header {
