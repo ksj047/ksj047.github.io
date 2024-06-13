@@ -4,6 +4,11 @@ body {
     font-family: 'Fira Code', monospace; /* Coding font */
     margin: 0;
     padding: 0;
+    background-image: url('background-image.jpg'); /* Add image as background */
+    background-size: cover; /* Scale the image to cover the entire background */
+    background-position: center; /* Position the image at the center */
+    background-blend-mode: multiply; /* Blend the image with the background color */
+    background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background color */
 }
 
 header {
