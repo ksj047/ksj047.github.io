@@ -23,9 +23,6 @@
         <div class="container">
             <h2>Experience</h2>
             <div class="job">
-                <div class="logo">
-                    <img src="karunadu-technologies-private-limited-logo.png" alt="Karunadu Technologies Private Limited logo">
-                </div>
                 <h3>Intern</h3>
                 <p>Karunadu Technologies Private Limited · Internship</p>
                 <p>Nov 2023 - Nov 2023 · 1 mo</p>
@@ -33,14 +30,11 @@
                 <p class="job-details">Internship on Data science and machine learning. Covered topics of various machine learning algorithms, Data Pre-processing, Data Visualisation tools like powerbi, Django to implement these algorithms. Skills: Microsoft Power BI, Python, and +7 skills.</p>
             </div>
             <div class="job">
-                <div class="logo">
-                    <img src="karunadu-technologies-private-limited-logo.png" alt="Karunadu Technologies Private Limited logo">
-                </div>
                 <h3>Intern</h3>
                 <p>Karunadu Technologies Private Limited · Internship</p>
                 <p>Oct 2022 - Oct 2022 · 1 mo</p>
                 <p>Bangalore Urban, Karnataka, India · On-site</p>
-                <p class="job-details">Internship in Machine learning and data science. Skills: Python, Python (Programming Language), and +1 skill.</p>
+                <p class="job-details">Internship in Python and PyQt5. Skills: Python, Python (Programming Language), and +1 skill.</p>
             </div>
         </div>
     </section>
