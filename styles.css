@@ -84,7 +84,7 @@ section h2 {
     font-weight: bold;
     margin-bottom: 10px;
     padding: 0 10px;
-    position: relative; /* Add this line */
+    position: relative;
 }
 
 section h2::after {
@@ -95,6 +95,30 @@ section h2::after {
     width: calc(100% - 20px); /* Subtract the left and right padding */
     height: 2px; /* Set the height of the line */
     background-color: #66d9ef; /* Set the color of the line */
+}
+
+section .job,
+section .degree {
+    margin-bottom: 20px;
+}
+
+section .job h3,
+section .degree h3 {
+    color: #FFFFFF; /* White */
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+section .job p,
+section .degree p {
+    margin-bottom: 5px;
+}
+
+section .job-details,
+section .degree-details {
+    font-size: 0.9em;
+    color: #CCCCCC; /* Light gray */
 }
 
 ul {
@@ -143,5 +167,25 @@ footer {
     section h2::after {
         left: 15px; /* Adjust the left position for smaller screens */
         width: calc(100% - 30px); /* Adjust the width for smaller screens */
+    }
+
+    section .job,
+    section .degree {
+        margin-bottom: 15px;
+    }
+
+    section .job h3,
+    section .degree h3 {
+        font-size: 1em;
+    }
+
+    section .job p,
+    section .degree p {
+        font-size: 0.9em;
+    }
+
+    section .job-details,
+    section .degree-details {
+        font-size: 0.8em;
     }
 }
