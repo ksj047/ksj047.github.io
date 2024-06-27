@@ -75,13 +75,26 @@ section {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    position: relative;
 }
 
-h2 {
+section h2 {
     color: #FFFFFF; /* White */
     font-size: 1.5em;
     font-weight: bold;
     margin-bottom: 10px;
+    padding: 0 10px;
+    position: relative; /* Add this line */
+}
+
+section h2::after {
+    content: "";
+    position: absolute;
+    left: 10px; /* Adjust the left position as needed */
+    bottom: -5px; /* Adjust the bottom position as needed */
+    width: calc(100% - 20px); /* Subtract the left and right padding */
+    height: 2px; /* Set the height of the line */
+    background-color: #66d9ef; /* Set the color of the line */
 }
 
 ul {
@@ -123,7 +136,12 @@ footer {
         padding: 15px;
     }
 
-    h2 {
+    section h2 {
         font-size: 1.2em;
+    }
+
+    section h2::after {
+        left: 15px; /* Adjust the left position for smaller screens */
+        width: calc(100% - 30px); /* Adjust the width for smaller screens */
     }
 }
