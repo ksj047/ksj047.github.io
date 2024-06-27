@@ -20,7 +20,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(26, 29, 35, 0.5); /* Semi-transparent dark blue */
+    background-color: rgba(0,0,0,0); /* Semi-transparent dark blue */
     z-index: -1;
 }
 
