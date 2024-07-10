@@ -6,7 +6,11 @@
 }
 
 body {
-    background-color: #1a1d23; /* Dark blue */
+    background-image: url('image_2024-06-13_081128693.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: #FFFFFF; /* White */
     font-family: Arial, sans-serif; /* Corrected font family */
     position: relative;
