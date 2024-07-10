@@ -63,6 +63,10 @@ nav ul li a {
     transition: color 0.3s ease;
 }
 
+nav ul li a:hover {
+    color: #33cc33; /* Bright green */
+}
+
 /* Main Content Styles */
 main {
     flex-grow: 1;
@@ -90,11 +94,11 @@ section h2 {
 section h2::after {
     content: "";
     position: absolute;
-    left: 10px; /* Adjust the left position as needed */
+    left: 0; /* Adjust the left position as needed */
     bottom: -5px; /* Adjust the bottom position as needed */
-    width: calc(100% - 20px); /* Subtract the left and right padding */
-    height: 2px; /* Set the height of the line */
-    background-color: #66d9ef; /* Set the color of the line */
+    width: 50px; /* Set the width of the underline */
+    height: 2px; /* Set the height of the underline */
+    background-color: #66d9ef; /* Set the color of the underline */
 }
 
 section .job,
@@ -165,8 +169,7 @@ footer {
     }
 
     section h2::after {
-        left: 15px; /* Adjust the left position for smaller screens */
-        width: calc(100% - 30px); /* Adjust the width for smaller screens */
+        width: 40px; /* Adjust the width of the underline for smaller screens */
     }
 
     section .job,
